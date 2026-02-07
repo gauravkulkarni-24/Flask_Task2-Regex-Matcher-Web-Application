@@ -44,4 +44,4 @@ The goal was to clone the **core functionality** of regex101.com:
 ## 🧠 Setting Up the Flask Project
 - Created virtual environment
 - Installed Flask
-- Structured project using templates & static folders
+- Structured project using templates(index.html) & static(style.css) folders
